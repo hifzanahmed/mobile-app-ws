@@ -1,4 +1,4 @@
-package com.mobileApp.ws.mobileappws.request;
+package com.mobileApp.ws.mobileappws.model.request;
 
 public class UserDetailsRequestModel {
     private String firstName;
